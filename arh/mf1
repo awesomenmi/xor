@@ -1,3 +1,0 @@
-all:
-	gcc arh112.c
-
